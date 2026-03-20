@@ -15,8 +15,4 @@ This project analyzes retail sales data to uncover insights related to product p
 - Tier 3 cities generated highest revenue
 - Medium outlets contributed 42% of sales
 
-## 📊 Dashboard Preview
-(Add your image here)
 
-## 🔗 Dataset / File
-(Add your file link here)
